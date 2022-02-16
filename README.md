@@ -1,4 +1,4 @@
-##School of Frontend X Mix Drix
+## School of Frontend X Mix Drix
 This project is a warmup project for creating simple game X Mix Drix- Y and Shay> [Click Here](https://cocky-goldberg-59d9d6.netlify.app/)
 
 ## Create-React-App-Lambda
